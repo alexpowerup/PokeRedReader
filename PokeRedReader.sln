@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeRedReader", "PokeRedReader\PokeRedReader.csproj", "{09F74F9E-73A0-42B8-994F-D6D5570D948B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F74F9E-73A0-42B8-994F-D6D5570D948B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F74F9E-73A0-42B8-994F-D6D5570D948B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F74F9E-73A0-42B8-994F-D6D5570D948B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F74F9E-73A0-42B8-994F-D6D5570D948B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B1345B-8171-4C3B-B06B-FC5EA157A028}
+	EndGlobalSection
+EndGlobal
